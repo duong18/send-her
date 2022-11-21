@@ -27,7 +27,7 @@ Sau khi đăng nhập bạn quay lại đây nhé, các bước tiếp theo vô 
 Follow github.</br>
 <p align="center"> <img src="/imagesGithub/follow.png" alt="bg" /> </p>
 
-Truy cập và đường link và ấn follow cho mình nhé: https://github.com/zukahai
+Truy cập và đường link và ấn follow cho mình nhé: https://github.com
 
 
 ### Bước 2: Fork Project
@@ -75,15 +75,15 @@ Xem vide hướng dẫn [Tại đây](https://www.youtube.com/watch?v=RvmmB8euJv
 
 <br>
 
-### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn </p>](https://zukahai.github.io/Confess-Crush/)
+### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn </p>](https://duong18.github.io/send-her/)
 
-[<p align="center"> <img src="/imagesGithub/demo.png" alt="web" /> </p>](https://zukahai.github.io/Confess-Crush/)
+[<p align="center"> <img src="/imagesGithub/demo.png" alt="web" /> </p>](https://duong18.github.io/send-her/)
 
 <hr>
 
 ### <p align="center"> Câu hỏi và phản hồi </p>
 
-Nếu bạn vẫn chưa làm được hoặc hoặc chưa biết mình làm sai ở đây hãy nhấn vào hình bên dưới hoặc nhấn [Tại đây](https://github.com/zukahai/Confess-Crush/issues/new)
-[<p align="center"> <img src="/img/logi.gif" alt="web" /> </p>](https://github.com/zukahai/Confess-Crush/issues/new)
+Nếu bạn vẫn chưa làm được hoặc hoặc chưa biết mình làm sai ở đây hãy nhấn vào hình bên dưới hoặc nhấn [Tại đây](https://github.com)
+[<p align="center"> <img src="/img/logi.gif" alt="web" /> </p>](https://github.com)
 
 ### <p align="center">😘💔💙💓💝💟💑 Chúc các bạn thành công 💚💗💘💖💞💋👄</p>
