@@ -4,11 +4,9 @@ const CONFIG = {
     introDesc: `Trăng tròn rồi lại khuyết
     Người hợp rồi lại tan
     Âm thầm trong đêm vắng
-    Ta lại ngồi coding.
-
-    Note: Bản quyền website thuộc về một project mã nguồn mở của zukahai. Tôi không sở hữu bất kì bản quyền trong nội dung code nào trong project này.`,
+    Ta lại ngồi coding.`,
     btnIntro: '^^Welcome Thỏ & Nhím^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    title: 'Note: Bản quyền website thuộc về một project mã nguồn mở của zukahai. Tôi không sở hữu bất kì bản quyền trong nội dung code nào trong project này. Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
